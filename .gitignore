@@ -1,4 +1,3 @@
-configuracion_local.sh
-archivos_personales/
-*.psd
-*.xcf
+local_config/
+.tmp
+*.env
