@@ -1,4 +1,4 @@
-# Tarea de Repaso Git-GitHub
+# Tarea de Repaso Git-GitHub:
 
 Pasos realizados:
 
