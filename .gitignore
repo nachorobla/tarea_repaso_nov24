@@ -1,3 +1,0 @@
-echo "local_config/" >> .gitignore
-echo ".tmp/" >> .gitignore
-echo ".env" >> .gitignore
